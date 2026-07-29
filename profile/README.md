@@ -63,8 +63,8 @@ The system uses a microservices architecture composed of two main components:
 
 #### 1. Clone the Repositories
 ```bash
-git clone https://github.com/your-org/interoperability-center-server.git
-git clone https://github.com/your-org/interoperability-center-frontend.git
+git clone https://github.com/Interoperability-Center-Patras/interoperability-center-server.git
+git clone https://github.com/Interoperability-Center-Patras/interoperability-center-frontend.git
 ```
 
 #### 2. Start the Backend Ecosystem
